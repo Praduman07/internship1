@@ -1,0 +1,41 @@
+@media only screen and (max-width:480px){
+    html,body{
+        height:100%;
+        width:100%;
+        margin0;
+        padding:0;
+        overflow-x:hidden;
+    }
+    .main{
+        height:200vh;
+       
+    }
+    .signin{
+        white-space: nowrap;
+    }
+    .signup{
+        white-space: nowrap;
+        margin-left:-30px;
+        padding:5px 20px;
+
+    }
+    .container{
+        display:block;
+        width:100%;
+        margin-left:5px;
+
+    }
+    .text{
+        width:90%;
+
+    }
+    .heading{
+        font-size:30px;
+        text-align:center;
+    }
+    .para{
+        font-size:15px;
+        text-align:center;
+        line-height:10px;
+    }
+}
